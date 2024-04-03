@@ -10,8 +10,7 @@ Building my own portfolio
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AymenGabsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<a href="https://app.daily.dev/darkai"><img src="https://api.daily.dev/devcards/v2/p6kWnhWizHyhLgw779bM9.png?type=wide&r=nvj" width="652" alt="Aymen's Dev Card"/></a>
----
+<a href="https://app.daily.dev/darkai"><img src="https://api.daily.dev/devcards/v2/p6kWnhWizHyhLgw779bM9.png?type=default&r=nvj" width="356" alt="Aymen's Dev Card"/></a>---
 [![](https://visitcount.itsvg.in/api?id=AymenGabsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
