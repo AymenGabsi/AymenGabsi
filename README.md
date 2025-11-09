@@ -5,7 +5,7 @@ Building my own portfolio
 ## 🕶️ Secrets in the Shadows
 
 > *I keep my best secrets close.*  
-> **Two private repositories** live quietly in the shadows...  
+> **Three private repositories** live quietly in the shadows...  
 > *Maybe one day, they'll see the light. Maybe not.*
 
 [![Coming Soon](https://img.shields.io/badge/-Coming%20Soon...-black?style=flat-square&logo=github&logoColor=white)](https://github.com/aymengabsi)
