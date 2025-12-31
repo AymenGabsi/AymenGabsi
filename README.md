@@ -11,9 +11,7 @@
 
 </div>
 
----
-
-### About Me
+### 🔮 About Me
 
 - 👨‍💻 Senior Software Engineer with **+5 years** of production experience
 - 🏢 Domains: 🏦 Fintech · 🏥 Healthcare · 🛒 Retail · 🏭 Industrial
