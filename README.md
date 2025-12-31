@@ -4,8 +4,6 @@
 
 **Senior Software Engineer** · **Systems Thinker** · **Creative at Heart**
 
-*I build extraordinary things at the intersection of structure and creativity.*
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aymengabsi.se@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AymenGabsi)
@@ -17,15 +15,16 @@
 
 ### About Me
 
-I'm a Senior Software Engineer with +5 years of experience building production-grade systems across fintech, healthcare, retail, and industrial domains. I've shipped platforms that handle real-time POS operations, medical workflows, e-commerce integrations, and AI-powered applications.
+- 👨‍💻 Senior Software Engineer with **+5 years** of production experience
+- 🏢 Domains: 🏦 Fintech · 🏥 Healthcare · 🛒 Retail · 🏭 Industrial
+- 🚀 Shipped: Real-time POS · Medical workflows · E-commerce integrations · AI applications
+- 🎨 Engineer who secretly paints · Creative who obsessively systematizes
+- 🎸 Guitar · 🎹 Piano · ✏️ Sketching · 📚 Reading
+- 📚 Always reading, always learning
+- 🌐 Portfolio: [http://aymengabsi.com/](http://aymengabsi.com/)
+- 📫 Reach me: [aymengabsi.se@gmail.com](mailto:aymengabsi.se@gmail.com)
 
-But here's what makes me different:
-
-I belong to the engineers who secretly paint. The creatives who obsessively systematize because I believe **clarity is a form of freedom**. I play guitar and piano, sketch when I need to think, and read books that have nothing to do with code.
-
-I translate between **chaos and clarity**. Between raw data and felt experience. Between the invisible and the visible.
-
-> *I want to build things that leave a mark on people's inner world.*
+> *I translate between chaos and clarity. I build things that leave a mark.*
 
 ---
 
