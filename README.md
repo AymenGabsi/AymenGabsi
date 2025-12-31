@@ -19,7 +19,7 @@
 - 🎨 Engineer who secretly paints · Creative who obsessively systematizes
 - 🎸 Guitar · 🎹 Piano · ✏️ Sketching · 📚 Reading
 - 📚 Always reading, always learning
-- 🌐 Portfolio: [http://aymengabsi.com/](http://aymengabsi.com/)
+- 🌐 Portfolio: [https://aymengabsi.com/](https://aymengabsi.com/)
 - 📫 Reach me: [aymengabsi.se@gmail.com](mailto:aymengabsi.se@gmail.com)
 
 > *I translate between chaos and clarity. I build things that leave a mark.*
