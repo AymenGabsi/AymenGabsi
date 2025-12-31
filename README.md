@@ -83,13 +83,13 @@
 
 <div align="center">
 
-[![HireIQ](/assets/HireIQ%20Cover.png)](https://github.com/YOUR_USERNAME/hireiq)
+[![HireIQ](/assets/HireIQ%20Cover.png)](https://mock-interview-platform-zeta.vercel.app/sign-in)
 
-[![MoneyMint](/assets/Semantic%20Book%20Recommender.png)](https://github.com/YOUR_USERNAME/moneymint)
+[![Semantic Book Recommender](/assets/Semantic%20Book%20Recommender.png)](https://huggingface.co/spaces/darkai-26/llm-semantic-book-recommender)
 
-[![Botify](/assets/moneymint_badge.png)](https://github.com/YOUR_USERNAME/botify)
+[![MoneyMint](/assets/moneymint_badge.png)](https://moneymint-delta.vercel.app/sign-in)
 
-[![RAG Document Q&A](/assets/E-Commerce%20Microservices.png)](https://github.com/YOUR_USERNAME/rag-document-qa)
+[![E-Commerce Microservices](/assets/E-Commerce%20Microservices%20Cover.png)](https://github.com/AymenGabsi/spring-cloud-microservices-keycloak)
 
 </div>
 
@@ -111,13 +111,15 @@
 
 ### 💼 Professional Highlights
 
-| Role                      | Company                    | Impact                                                     |
-| ------------------------- | -------------------------- | ---------------------------------------------------------- |
-| **Full Stack Engineer**   | Artis Resto & Oilgest      | 99% performance improvement (4s → 45ms), 70% API reduction |
-| **Java Developer**        | Shopify Integration @ B2M  | Sole technical owner — built bidirectional real-time sync  |
-| **Backend Engineer**      | Arcad 360 @ Arche MC2      | Medico-social platform serving French healthcare orgs      |
-| **Fullstack & Architect** | Cyrus360                   | Led 2-person team, owned 70% of codebase                   |
-| **Full Stack Engineer**   | SIL4.0 Industrial Platform | Delivered 80% of codebase in 3-month migration             |
+| Role                         | Company                             | Impact                                                     |
+| ---------------------------- | ----------------------------------- | ---------------------------------------------------------- |
+| **Full Stack Engineer**      | Artis Resto & Oilgest @B2M          | 99% performance improvement, development of two specialized management platforms |
+| **Java & Shopify Developer** | Shopify Integration @B2M            | Sole technical owner — built bidirectional real-time sync  |
+| **Backend Engineer**         | Arcad 360 @Arche MC2                | Medico-social platform serving French healthcare orgs      |
+| **Full Stack Engineer**      | SIL4.0 Industrial Platform @Vertech | Delivered 80% of codebase in 3-month migration             |
+| **Fullstack & Architect**    | Cyrus360                            | Led 2-person team, owned 70% of codebase                   |
+| **Full Stack Engineer**      | Artis @B2M                          | Implementing new feature modules, and building supporting tools that enhanced reliability and automation |
+
 
 ---
 
