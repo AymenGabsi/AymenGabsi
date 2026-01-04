@@ -2,7 +2,7 @@
 
 # Hey, I'm Aymen 👋
 
-**Senior Software Engineer** · **Systems Thinker** · **Creative at Heart**
+**𝓢𝓮𝓷𝓲𝓸𝓻 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻** - **𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓣𝓱𝓲𝓷𝓴𝓮𝓻** - **𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓪𝓽 𝓗𝓮𝓪𝓻𝓽**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aymengabsi.se@gmail.com)
@@ -14,14 +14,14 @@
 ### 🔮 About Me
 
 - 👨‍💻 Senior Software Engineer with **+5 years** of production experience
-- 🏢 Domains: 🏦 Fintech · 🏥 Healthcare · 🛒 Retail · 🏭 Industrial
+- 🏢 Domains : 🏦 Fintech · 🏥 Healthcare · 🛒 Retail · 🏭 Industrial
 - 🚀 Shipped: Real-time POS · Medical workflows · E-commerce integrations · AI applications
 - 🎨 Engineer who secretly paints · Creative who obsessively systematizes
 - 🎸 Guitar · 🎹 Piano · ✏️ Sketching · 📚 Reading
 - 📚 Always reading, always learning
-- 🌐 Portfolio: [https://aymengabsi.com/](https://aymengabsi.com/)
+- 🌐 Portfolio : [https://aymengabsi.com/](https://aymengabsi.com/)
 - 📝 I write technical blogs and articles. Check out my [Blog](https://www.aymengabsi.com/blog)
-- 📫 Reach me: [aymengabsi.se@gmail.com](mailto:aymengabsi.se@gmail.com)
+- 📫 Reach me : [aymengabsi.se@gmail.com](mailto:aymengabsi.se@gmail.com)
 
 > _I translate between chaos and clarity. I build things that leave a mark._
 
