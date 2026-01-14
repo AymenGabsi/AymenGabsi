@@ -4,7 +4,7 @@
 
 **𝓢𝓮𝓷𝓲𝓸𝓻 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻** - **𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓣𝓱𝓲𝓷𝓴𝓮𝓻** - **𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓪𝓽 𝓗𝓮𝓪𝓻𝓽**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-gabsi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aymengabsi.se@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AymenGabsi)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aymengabsi.com/)
